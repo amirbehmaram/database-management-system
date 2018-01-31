@@ -1,13 +1,17 @@
-# __**Database management system by Amir Behmaram**__
+# **Database management system by Amir Behmaram**
+-------------------------------------------------
 
-### __Installation and setup of GO__
+### Installation and setup of GO
+--------------------------------
 
-### __Compilation instructions__
+### Compilation instructions
+----------------------------
 
-### __Running the Program__
+### Running the Program
+-----------------------
 
-### __Supported SQL statements and examples__
-
+### Supported SQL statements and examples
+-----------------------------------------
 #### Databases
 CREATE DATABASE <db name>;
 DROP DATABASE <db name>;
